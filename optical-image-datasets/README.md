@@ -110,4 +110,3 @@ This folder contains **104** datasets related to optical image datasets.
 | 104 | Simulated-Underwater-Depth-Dataset | [Link](https://github.com/ollieturner/Simulated-Underwater-Depth-Dataset-Generation) |
 
 ---
-*Last generated from 水下数据集.xlsx*
