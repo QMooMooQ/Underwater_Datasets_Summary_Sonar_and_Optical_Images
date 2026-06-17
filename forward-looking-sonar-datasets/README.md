@@ -9,7 +9,7 @@ This folder contains **19** datasets related to forward-looking sonar datasets.
 | 3 | Five-Element Acoustic | [Link](http://users.ece.utexas.edu/~bevans/projects/underwater/datasets/) |
 | 4 | DIDSON Fish | [Link](https://pan.baidu.com/s/1bEEG1D9RGq26Off5Ra93mg?pwd=qhjg) |
 | 5 | FLS Marine Debris (Forward-Looking Sonar Marine Debris) | [Link](https://zenodo.org/records/7922705) |
-| 6 | URPC Sonar (URPC2021/2022 声呐) | [Link](https://openi.pcl.ac.cn/openorcinus_orca/urpc2021_sonar_images_dataset) |
+| 6 | URPC Sonar (URPC2021/2022 ) | [Link](https://openi.pcl.ac.cn/openorcinus_orca/urpc2021_sonar_images_dataset) |
 | 7 | ARIS Fish Counting | Unsupervised Domain Adaptation for Fish Counting from Optical to FLS Images |
 | 8 | DEBRIS (Marine Debris FLS Dataset) | [Link](https://github.com/mvaldenegro/marine-debris-fls-datasets) |
 | 9 | FLS Detection (Forward-Looking Sonar Detection Dataset) | [Link](https://github.com/XingYZhu/Forward-looking-Sonar-Detection-Dataset) |
