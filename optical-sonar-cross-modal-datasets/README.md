@@ -19,4 +19,3 @@ This folder contains **13** datasets related to optical-sonar cross-modal datase
 | 13 | BrSPCD | [Link](https://github.com/wxiong12/BrSPCD) |
 
 ---
-*Last generated from 水下数据集.xlsx*
