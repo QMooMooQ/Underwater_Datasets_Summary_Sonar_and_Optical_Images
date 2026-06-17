@@ -34,4 +34,3 @@ This folder contains **28** datasets related to side-scan sonar datasets.
 | 28 | Sonar-dataset | [Link](https://github.com/YDY-andy/Sonar-dataset) |
 
 ---
-*Last generated from 水下数据集.xlsx*
